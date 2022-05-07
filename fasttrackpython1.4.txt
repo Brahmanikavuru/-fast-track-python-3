@@ -1,0 +1,17 @@
+1.Explain the difference between cassandra and typical databases.
+     .Cassandra is a high performance and highly scalable distributed NoSQL database management system.
+     .RDBMS is a database managementsystem or software which is designed for relational databases.
+     .Cassandra is a NoSQL database.RDBMS uses SQL for querying and maintaining database.
+
+2.What exactly is CQLSH?
+    CQLSH is a command -line interface for interacting with cassandra using CQL (the Cassandra Query Language).It is shipped with every Cassandra package,and can be found in the bin/directory  alongside the cassandra executable.
+
+3.Explain the cassandra cluster idea?
+    A cluster in cassandra is one of the shells in the whole cassandra database.Many cassandra clusters combine together to form the database in cassandra. A cluster is basically  the outermost shell or storage unit in database.The cassandra cluster contains many different layers of storage units.
+
+4.Give an example to demonstrate the class notion?
+    Python is an object oriented programming language.A class is like an object constructior,or a "blueprint" for creating objects.
+
+5.Use an example to explain the object?
+   Everything is in python treated as an object .Every object belong to its class.
+   FOR EXAMPLE: an integer variable belongs to integer class.an object is the collection of various data and functions that operate on those data.
